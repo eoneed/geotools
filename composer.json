@@ -1,5 +1,5 @@
 {
-    "name"        : "league/geotools",
+    "name"        : "eoneed/geotools",
     "type"        : "library",
     "description" : "Geo-related tools PHP 7.0+ library",
     "keywords"    : ["geotools", "geometry", "geocoder", "geocoding", "geoip", "bounds", "distance", "batch", "async", "geohash", "geolocation", "latlong", "latitude", "longitude"],
@@ -15,10 +15,6 @@
     "support" : {
         "issues" : "https://github.com/thephpleague/geotools/issues",
         "source" : "https://github.com/thephpleague/geotools"
-    },
-
-    "replace" : {
-        "toin0u/geotools" : "*"
     },
 
     "require" : {
